@@ -4,3 +4,6 @@ body{
 .form-box{
 	margin: 50px auto;
 }
+#response{
+	color: red;
+}
