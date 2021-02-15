@@ -1,7 +1,7 @@
 # login
-#How to make Login Page
+# How to make Login Page
 
-##using Php, Jquery and MySql
+## using Php, Jquery and MySql
 
 Requirements-
   
